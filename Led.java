@@ -13,18 +13,3 @@ philips.switchoff();
 }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
